@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @jaw1025
+/src/backend/database.py      @jaw1025
+/src/backend/routers/auth.py  @jaw1025
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @jaw1025
